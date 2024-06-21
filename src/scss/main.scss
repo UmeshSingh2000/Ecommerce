@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Raleway", sans-serif;
+}
+
+$bg-color :white;
+
+@mixin flexCenter($gap) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: $gap;
+}
+
+body,
+html {
+    height: 100%;
+    width: 100%;
+    background-color: $bg-color;
+}
+
+.navbar {
+    background-color: white;
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 3rem;
+
+    .logo {
+        display: flex;
+        align-items: center;
+
+        h1 {
+            font-size: 2rem;
+            font-weight: 500;
+            // text-decoration: underline;
+        }
+    }
+
+    ul {
+        @include flexCenter(2vw);
+        margin-right: 10rem;
+
+        li {
+            list-style: none;
+            font-weight: 500;
+            position: relative;
+            transition: all .3s;
+            cursor: pointer;
+            color: #5c5c5c;
+
+            &:hover {
+                color: black;
+                font-weight: 700;
+            }
+
+            .search {
+                position: relative;
+                input {
+                    padding: 0.5rem 1rem;
+                    width: 500px;
+                }
+                i {
+                    position: absolute;
+                    right: 0;
+                    cursor: pointer;
+                    top: 50%;
+                    font-size: 1.2rem;
+
+                    transform: translate(-50%, -50%);
+                }
+            }
+        }
+    }
+    .cart {
+        display: flex;
+        gap: 2rem;
+        i {
+            cursor: pointer;
+            font-size: 1.3rem;
+            position: relative;
+            width: 40px;
+        }
+        .fa-cart-shopping{
+            &::after{
+                content: attr(data-count);
+                position: absolute;
+                font-size: .6rem;
+                height: 10px;
+                width: 10px;
+                @include flexCenter(0);
+                background-color: #2bda2b;
+                padding: 5px;
+                color: white;
+                border-radius: 50%;
+                top: -50%;
+                right: 0;
+            }
+        }
+    }
+}
+
+.hero-section {
+    overflow-x: hidden;
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 85vh;
+
+    img {
+        min-width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    i {
+        z-index: 1;
+        color: white;
+        font-size: 2.2rem;
+        cursor: pointer;
+        opacity: .5;
+        &:hover {
+            opacity: 1;
+        }
+    }
+    .fa-circle-chevron-left {
+        position: absolute;
+        top: 50%;
+        left: 1%;
+        transform: translate(0%, -50%);
+
+    }
+
+    .fa-circle-chevron-right {
+        position: absolute;
+        top: 50%;
+        transform: translate(0%, -50%);
+        right: 1%;
+
+    }
+}
