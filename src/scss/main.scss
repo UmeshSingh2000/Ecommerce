@@ -4,8 +4,11 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Raleway", sans-serif;
+    scroll-behavior: smooth;
 }
-
+::-webkit-scrollbar{
+    display: none;
+}
 $bg-color :white;
 
 @mixin flexCenter($gap) {
@@ -28,7 +31,8 @@ html {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 3rem;
+    padding: 0 3rem;
+    width: 100%;
 
     .logo {
         display: flex;
@@ -43,19 +47,18 @@ html {
 
     ul {
         @include flexCenter(2vw);
-        margin-right: 10rem;
+        // margin-right: 10rem;
 
         li {
             list-style: none;
             font-weight: 500;
             position: relative;
-            transition: all .3s;
+            // transition: all .3s;
             cursor: pointer;
-            color: #5c5c5c;
+            color: #888888;
 
             &:hover {
                 color: black;
-                font-weight: 700;
             }
 
             .search {
@@ -78,7 +81,6 @@ html {
     }
     .cart {
         display: flex;
-        gap: 2rem;
         i {
             cursor: pointer;
             font-size: 1.3rem;
@@ -109,11 +111,10 @@ html {
     display: flex;
     position: relative;
     width: 100%;
-    height: 85vh;
+    // height: 85vh;
 
     img {
-        min-width: 100%;
-        height: 100%;
+        width: 100%;
         object-fit: cover;
     }
     i {
@@ -140,5 +141,25 @@ html {
         transform: translate(0%, -50%);
         right: 1%;
 
+    }
+    #Mimages{
+        display: none;
+    }
+}
+@media (max-width:1060px) {
+    .navbar{
+        ul{
+            display: none;
+        }
+    }
+}
+@media (max-width:720px) {
+    .hero-section{
+        #Limages{
+            display: none;
+        }
+        #Mimages{
+            display: block;
+        }
     }
 }

@@ -4,9 +4,17 @@ import React from 'react'
 const Navbar = () => {
   return (
     <>
-      <nav className="navbar">
+      <nav className="navbar" style={{
+        position:'sticky',
+        top:0,
+        zIndex:100,
+      }}>
         <div className="logo">
-          <h1>SoundMart</h1>
+          <h1>Sound <span style={{
+            color:'#FFC107',
+            fontWeight:'700',
+            textDecoration:'underline'
+          }}>Mart</span></h1>
         </div>
         <ul>
           <li>Home</li>
@@ -19,6 +27,7 @@ const Navbar = () => {
               <input type="text" placeholder='Search'/>
             </div>
           </li>
+
         </ul>
         <div className="cart">
           <i className="fa-regular fa-user"></i>
