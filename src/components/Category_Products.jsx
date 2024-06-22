@@ -1,0 +1,29 @@
+import React, { useEffect } from 'react'
+import category_card from './category-images.json'
+import Card from './Card'
+import Navbar from './Navbar'
+import { useParams } from 'react-router-dom';
+
+const Category_Products = () => {
+    const { categoryId } = useParams();
+    const category = category_card.find(card => card.title === (categoryId));
+    return (
+        <div>
+            <Navbar />
+            <div className="category_Products">
+                <h1>Wireless Earbuds</h1>
+                <div className='category_Products_cards'>
+                    {category.products.map((card) => {
+                        return (
+                            <div key={card.id}>
+                                <Card src={card.src} title={card.title} price={card.price} stars={card.starts} feature={card.feature} />
+                            </div>
+                        )
+                    })}
+                </div>
+            </div>
+        </div>
+    )
+}
+
+export default Category_Products

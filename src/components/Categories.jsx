@@ -1,4 +1,5 @@
 
+import { Link } from 'react-router-dom';
 import imageData from './category-images.json';
 
 const Categories = () => {
@@ -13,12 +14,12 @@ const Categories = () => {
       <div className='container'>
         {imageData.map((img) => {
           return (
-            <a href="https://www.boat-lifestyle.com/collections/true-wireless-earbuds?variant=40422740852834" key={img.id}>
+            <Link to={`/category/${img.title}`} key={img.id}>
               <div className='category-card'>
                 <img src={img.src} />
                 <p>{img.title}</p>
               </div>
-            </a>
+            </Link>
           )
         })}
       </div>

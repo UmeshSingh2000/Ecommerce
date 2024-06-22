@@ -2,12 +2,160 @@
     {
         "id":1,
         "src" : "https://www.boat-lifestyle.com/cdn/shop/files/True-wireless-earbuds_small.png?v=1684842854",
-        "title" : "True Wireless Earbuds"
+        "title" : "True Wireless Earbuds",
+        "products": [
+            {
+                "id":1,
+                "title": "Airdopes 131",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/131_f04f74fd-45d4-4614-85cf-6ccf69c4cf90.jpg?v=1691395049",
+                "price" : "₹899",
+                "starts": "4.8",
+                "feature" : "60 Hours Playback"
+            },
+            {
+                "id":2,
+                "title": "Airdopes Atom 83",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/boAt-Airdopes-Atom-83.jpg?v=1682576552",
+                "price" : "₹3,490",
+                "starts": "4.7",
+                "feature" : "50 Hours Playback"
+            },
+            {
+                "id":3,
+                "title": "Nirvana Ion",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Nirvana_Ion.jpg?v=1697621745",
+                "price" : "₹1,999",
+                "starts": "5",
+                "feature" : "120 Hours Playback"
+            },
+            {
+                "id":4,
+                "title": "Airdopes 161",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_161.jpg?v=1686297917",
+                "price" : "₹999",
+                "starts": "4.9",
+                "feature" : "40 Hours Playback"
+            },
+            {
+                "id":5,
+                "title": "Airdopes 441",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_131_e7e95f2c-0bb3-492e-89df-613a2cfb792f.jpg?v=1686297917",
+                "price" : "₹1,499",
+                "starts": "4.8",
+                "feature" : "60 Hours Playback"
+            },
+            {
+                "id":6,
+                "title": "Airdopes 163",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Airdopes-163.jpg?v=1682408982",
+                "price" : "₹1,299",
+                "starts": "4.7",
+                "feature" : "50 Hours Playback"
+            },
+            {
+                "id":7,
+                "title": "Airdopes 171",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_141.png?v=1703145765",
+                "price" : "₹1,099",
+                "starts": "4.9",
+                "feature" : "17 Hours Playback"
+            },
+            {
+                "id":8,
+                "title": "Immortal 111",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/IM_111.jpg?v=1706776330",
+                "price" : "₹1,449",
+                "starts": "4.8",
+                "feature" : "Gaming Earbuds"
+            },
+            {
+                "id":9,
+                "title" : "Airdopes Ace",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_Alpha.jpg?v=1688452927",
+                "price" : "₹1,299",
+                "starts": "4.7",
+                "feature" : "Gaming Earbuds"
+            }
+        ]
     },
     {
         "id":2,
         "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Neckbands_bc6343f4-622f-4ebd-bb36-205643c3bf78_small.png?v=1684842854",
-        "title" : "Neckband"
+        "title" : "Neckband",
+        "products": [
+            {
+                "id":1,
+                "title": "Airdopes 131",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/131_f04f74fd-45d4-4614-85cf-6ccf69c4cf90.jpg?v=1691395049",
+                "price" : "₹899",
+                "starts": "4.8",
+                "feature" : "60 Hours Playback"
+            },
+            {
+                "id":2,
+                "title": "Airdopes Atom 83",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/boAt-Airdopes-Atom-83.jpg?v=1682576552",
+                "price" : "₹3,490",
+                "starts": "4.7",
+                "feature" : "50 Hours Playback"
+            },
+            {
+                "id":3,
+                "title": "Nirvana Ion",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Nirvana_Ion.jpg?v=1697621745",
+                "price" : "₹1,999",
+                "starts": "5",
+                "feature" : "120 Hours Playback"
+            },
+            {
+                "id":4,
+                "title": "Airdopes 161",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_161.jpg?v=1686297917",
+                "price" : "₹999",
+                "starts": "4.9",
+                "feature" : "40 Hours Playback"
+            },
+            {
+                "id":5,
+                "title": "Airdopes 441",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_131_e7e95f2c-0bb3-492e-89df-613a2cfb792f.jpg?v=1686297917",
+                "price" : "₹1,499",
+                "starts": "4.8",
+                "feature" : "60 Hours Playback"
+            },
+            {
+                "id":6,
+                "title": "Airdopes 163",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Airdopes-163.jpg?v=1682408982",
+                "price" : "₹1,299",
+                "starts": "4.7",
+                "feature" : "50 Hours Playback"
+            },
+            {
+                "id":7,
+                "title": "Airdopes 171",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_141.png?v=1703145765",
+                "price" : "₹1,099",
+                "starts": "4.9",
+                "feature" : "17 Hours Playback"
+            },
+            {
+                "id":8,
+                "title": "Immortal 111",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/IM_111.jpg?v=1706776330",
+                "price" : "₹1,449",
+                "starts": "4.8",
+                "feature" : "Gaming Earbuds"
+            },
+            {
+                "id":9,
+                "title" : "Airdopes Ace",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_Alpha.jpg?v=1688452927",
+                "price" : "₹1,299",
+                "starts": "4.7",
+                "feature" : "Gaming Earbuds"
+            }
+        ]
     },
     {
         "id":3,
