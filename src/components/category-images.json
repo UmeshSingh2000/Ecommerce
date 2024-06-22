@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "src" : "https://www.boat-lifestyle.com/cdn/shop/files/True-wireless-earbuds_small.png?v=1684842854",
+        "title" : "True Wireless Earbuds"
+    },
+    {
+        "id":2,
+        "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Neckbands_bc6343f4-622f-4ebd-bb36-205643c3bf78_small.png?v=1684842854",
+        "title" : "Neckband"
+    },
+    {
+        "id":3,
+        "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Smartwatches_88f12bcf-24bd-4e3a-aacb-ecc204f62179_small.png?v=1684842853",
+        "title" : "Smart Watches"
+    },
+    {
+        "id":4,
+        "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Wireless-Headphones_small.png?v=1684842854",
+        "title" : "Wireless Headphones"
+    },
+    {
+        "id":5,
+        "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Wireless-Speaker_small.png?v=1684842854",
+        "title" : "Wireless Speakers"
+    },
+    {
+        "id":6,
+        "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Wired-Headphones_small.png?v=1684842854",
+        "title" : "Wired Headphones"
+    },
+    {
+        "id":7,
+        "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Wired-Earphones_small.png?v=1684842854",
+        "title" : "Wired Earphones"
+    },
+    {
+        "id":8,
+        "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Soundbars_d9a7bdfd-e780-4581-ab85-f2e86f84cd28_small.png?v=1684842854",
+        "title" : "Soundbars"
+    },
+    {
+        "id":9,
+        "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Gaming-Headphones_small.png?v=1684842853",
+        "title" : "Gaming Headphones"
+    },
+    {
+        "id":10,
+        "src" : "https://www.boat-lifestyle.com/cdn/shop/files/w_de57f25b-de5b-4d1a-bed0-765975b25da8_small.png?v=1684847228",
+        "title" : "Party Speakers"
+    },
+    {
+        "id":11,
+        "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Trimmers_d0d346cf-b681-49b6-8942-835819bec2d1_small.png?v=1684842853",
+        "title" : "Trimmers"
+    },
+    {
+        "id":12,
+        "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Chargers_c290cb92-f132-412c-8387-f399a7aba423_small.png?v=1684842854",
+        "title" : "Chargers"
+    }
+]

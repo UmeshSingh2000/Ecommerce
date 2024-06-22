@@ -11,7 +11,7 @@ const Navbar = () => {
       }}>
         <div className="logo">
           <h1>Sound <span style={{
-            color:'#FFC107',
+            color:'red',
             fontWeight:'700',
             textDecoration:'underline'
           }}>Mart</span></h1>
