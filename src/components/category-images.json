@@ -85,92 +85,314 @@
         "products": [
             {
                 "id":1,
-                "title": "Airdopes 131",
-                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/131_f04f74fd-45d4-4614-85cf-6ccf69c4cf90.jpg?v=1691395049",
-                "price" : "₹899",
-                "starts": "4.8",
-                "feature" : "60 Hours Playback"
+                "title": "Rockerz 195V2 Pro",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_195V2_Pro.jpg?v=16971071919",
+                "price" : "₹1,399",
+                "starts": "4.5",
+                "feature" : "30 Hours Playback"
             },
             {
                 "id":2,
-                "title": "Airdopes Atom 83",
-                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/boAt-Airdopes-Atom-83.jpg?v=1682576552",
-                "price" : "₹3,490",
-                "starts": "4.7",
-                "feature" : "50 Hours Playback"
+                "title": "Rockerz 109",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_109.jpg?v=1697621745",
+                "price" : "₹1,290",
+                "starts": "4.9",
+                "feature" : "10 Hours Playback"
             },
             {
                 "id":3,
-                "title": "Nirvana Ion",
-                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Nirvana_Ion.jpg?v=1697621745",
-                "price" : "₹1,999",
-                "starts": "5",
-                "feature" : "120 Hours Playback"
+                "title": "Rockerz 255 Pro+",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/r255pro_55d805bc-f2e1-4861-9533-8eee57081305.jpg?v=1682573437",
+                "price" : "₹1,599",
+                "starts": "4.8",
+                "feature" : "50 Hours Playback"
             },
             {
                 "id":4,
-                "title": "Airdopes 161",
-                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_161.jpg?v=1686297917",
+                "title": "Rockerz 103 V2 Pro",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/R_103_V2_pro_9dd7801f-03cf-4ac7-8336-03c90b9cd839.jpg?v=1698302597",
                 "price" : "₹999",
                 "starts": "4.9",
                 "feature" : "40 Hours Playback"
             },
             {
                 "id":5,
-                "title": "Airdopes 441",
-                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_131_e7e95f2c-0bb3-492e-89df-613a2cfb792f.jpg?v=1686297917",
-                "price" : "₹1,499",
+                "title": "Rockerz 111",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_111.jpg?v=1698909797",
+                "price" : "₹1,299",
                 "starts": "4.8",
                 "feature" : "60 Hours Playback"
             },
             {
                 "id":6,
-                "title": "Airdopes 163",
-                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Airdopes-163.jpg?v=1682408982",
+                "title": "Rockerz 258 Pro+",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_258_Pro_d18d492a-866d-462b-8728-bee75002add0.jpg?v=1698909797",
                 "price" : "₹1,299",
                 "starts": "4.7",
                 "feature" : "50 Hours Playback"
             },
             {
                 "id":7,
-                "title": "Airdopes 171",
-                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_141.png?v=1703145765",
+                "title": "Rockerz 333 ANC",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_333_ANC.jpg?v=1698402384",
                 "price" : "₹1,099",
                 "starts": "4.9",
                 "feature" : "17 Hours Playback"
             },
             {
                 "id":8,
-                "title": "Immortal 111",
-                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/IM_111.jpg?v=1706776330",
+                "title": "Rockerz 330 Pro",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/boAt-Rockerz-330-Pro.jpg?v=1682579854",
                 "price" : "₹1,449",
                 "starts": "4.8",
-                "feature" : "Gaming Earbuds"
+                "feature" : "Gaming Earphone"
             },
             {
                 "id":9,
-                "title" : "Airdopes Ace",
-                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_Alpha.jpg?v=1688452927",
+                "title" : "Rockerz 245 V2 Pro",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_245V2_Pro_1.jpg?v=1692782512",
                 "price" : "₹1,299",
                 "starts": "4.7",
-                "feature" : "Gaming Earbuds"
+                "feature" : "Gaming Earphone"
             }
         ]
     },
     {
         "id":3,
         "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Smartwatches_88f12bcf-24bd-4e3a-aacb-ecc204f62179_small.png?v=1684842853",
-        "title" : "Smart Watches"
+        "title" : "Smart Watches",
+        "products": [
+            {
+                "id":1,
+                "title": "Ultima Chronos",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Ultima_Chronos.webp?v=1701692614",
+                "price" : "₹2,399",
+                "starts": "4.8",
+                "feature" : "AMOLED Display"
+            },
+            {
+                "id":2,
+                "title": "Wave Flex Connect",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Waveflex_connect.webp?v=1709108774",
+                "price" : "₹1,690",
+                "starts": "4.6",
+                "feature" : "BT Calling"
+            },
+            {
+                "id":3,
+                "title": "Storm Call 2",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Storm_Call_2.webp?v=1698984630",
+                "price" : "₹1,699",
+                "starts": "4.8",
+                "feature" : "BT Calling"
+            },
+            {
+                "id":4,
+                "title": "Lunar Connect Ace",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Lunar_Connect_Ace.webp?v=1702287204",
+                "price" : "₹1,899",
+                "starts": "4.9",
+                "feature" : "BT Calling"
+            },
+            {
+                "id":5,
+                "title": "Lunar Vista",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Lunar_Vista.webp?v=1702287205",
+                "price" : "₹1,299",
+                "starts": "4.6",
+                "feature" : "Round Display"
+            },
+            {
+                "id":6,
+                "title": "Wave Call 2",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Wave_Call_2.webp?v=1698747884",
+                "price" : "₹1,299",
+                "starts": "4.9",
+                "feature" : "BT Calling"
+            },
+            {
+                "id":7,
+                "title": "Ultima Connect Max",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/LIfestyle-renders.jpg?v=1685614895",
+                "price" : "₹1,499",
+                "starts": "4.8",
+                "feature" : "BT Calling"
+            },
+            {
+                "id":8,
+                "title": "Lunar Orb",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Lunar_Orb.webp?v=1701246813",
+                "price" : "₹2,339",
+                "starts": "4.5",
+                "feature" : "AMOLED Display"
+            },
+            {
+                "id":9,
+                "title" : "Wave Glory",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Wave_Glory_8f5ee246-4a00-4184-9655-fe0e9529b2ed.webp?v=1701692614",
+                "price" : "₹2,299",
+                "starts": "4.4",
+                "feature" : "BT Calling"
+            }
+        ]
     },
     {
         "id":4,
         "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Wireless-Headphones_small.png?v=1684842854",
-        "title" : "Wireless Headphones"
+        "title" : "Wireless Headphones",
+        "products": [
+            {
+                "id":1,
+                "title": "Nirvanaa 751 ANC",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Nirvana_751_ANC.jpg?v=1698909797",
+                "price" : "₹4,399",
+                "starts": "4.7",
+                "feature" : "65 Hour Playback"
+            },
+            {
+                "id":2,
+                "title": "Immortal 700",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Immortal_700_35baa2dd-cf19-4eab-8df3-c79ae962fb85.jpg?v=1699501201",
+                "price" : "₹2,790",
+                "starts": "4.6",
+                "feature" : "ENxTM Tech"
+            },
+            {
+                "id":3,
+                "title": "Nirvana Eutopia",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Nirvana_Eutopia.jpg?v=1711716650",
+                "price" : "₹4,699",
+                "starts": "4.8",
+                "feature" : "20 Hour Playback"
+            },
+            {
+                "id":4,
+                "title": "Rockerz 551ANC",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_551_ANC_75520e83-ecd9-48d4-8d58-cb6ca3c78374.jpg?v=1698912191",
+                "price" : "₹3,899",
+                "starts": "5.0",
+                "feature" : "100 Hour Playback"
+            },
+            {
+                "id":5,
+                "title": "Immortal 1000D",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Immortal_1000D_a4b7d95f-5ce0-459a-a148-9bd5d175445c.jpg?v=1699419321",
+                "price" : "₹2,299",
+                "starts": "4.9",
+                "feature" : "7.1 Channel Display"
+            },
+            {
+                "id":6,
+                "title": "Rockerz 518",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_518.jpg?v=1698909446",
+                "price" : "₹1,599",
+                "starts": "4.9",
+                "feature" : "20 Hour PLayback"
+            },
+            {
+                "id":7,
+                "title": "Nirvana 717 ANC",
+                "src" : "https://www.boat-lifestyle.com/cdn/shop/products/nirvana-717-1_300x.png?v=1613457273",
+                "price" : "₹3,499",
+                "starts": "4.7",
+                "feature" : "15 Hour Playback"
+            },
+            {
+                "id":8,
+                "title": "Rockerz 400",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/boAt-Rockerz-400_22a1ce75-9141-4a86-8765-ac1468496671.jpg?v=1682579854",
+                "price" : "₹1,399",
+                "starts": "4.8",
+                "feature" : "8 Hour Playback"
+            },
+            {
+                "id":9,
+                "title" : "Rockerz 600",
+                "src" : "https://www.boat-lifestyle.com/cdn/shop/products/fd0e55b0-ca9e-4aa8-b94f-5cca99189951_300x.png?v=1625045647",
+                "price" : "₹1,999",
+                "starts": "4.8",
+                "feature" : "8 Hour Playback"
+            }
+        ]
     },
     {
         "id":5,
         "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Wireless-Speaker_small.png?v=1684842854",
-        "title" : "Wireless Speakers"
+        "title" : "Wireless Speakers",
+        "products": [
+            {
+                "id":1,
+                "title": "Stone 190 Pro",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/S190PRO_FI_Blue_04.png?v=1718780392",
+                "price" : "₹1,099",
+                "starts": "4.7",
+                "feature" : "12 Hours Playback"
+            },
+            {
+                "id":2,
+                "title": "Stone 350",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_350.jpg?v=1701847157",
+                "price" : "₹1,599",
+                "starts": "4.6",
+                "feature" : "12 Hours Playback"
+            },
+            {
+                "id":3,
+                "title": "Stone 1450",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_1450.jpg?v=1702014281",
+                "price" : "₹4,499",
+                "starts": "4.8",
+                "feature" : "40W Rms Sound"
+            },
+            {
+                "id":4,
+                "title": "Party Pal 185",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/PP_185.jpg?v=1695976203",
+                "price" : "₹7,899",
+                "starts": "5.0",
+                "feature" : "50W RMS Sound"
+            },
+            {
+                "id":5,
+                "title": "Stone 1800",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_1800.jpg?v=1695273373",
+                "price" : "₹8,999",
+                "starts": "4.6",
+                "feature" : "90W Signature Sound"
+            },
+            {
+                "id":6,
+                "title": "Stone 650",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_650_e2b01de6-260c-4807-b1a4-1375392188b1.jpg?v=1702027041",
+                "price" : "₹1,999",
+                "starts": "4.9",
+                "feature" : "07 Hour PLayback"
+            },
+            {
+                "id":7,
+                "title": "Blitz 1500",
+                "src" : "https://www.boat-lifestyle.com/cdn/shop/files/Artboard3_44_300x.png?v=1705550564",
+                "price" : "₹3,399",
+                "starts": "4.7",
+                "feature" : "15 Hour Playback"
+            },
+            {
+                "id":8,
+                "title": "Stone Magestic",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_Majestic.jpg?v=1714033662",
+                "price" : "₹9,999",
+                "starts": "4.8",
+                "feature" : "6 Hour Playback"
+            },
+            {
+                "id":9,
+                "title" : "Party Pal 400",
+                "src" : "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Partypal_400.psb.jpg?v=1699524655",
+                "price" : "₹16,999",
+                "starts": "4.8",
+                "feature" : "6 Hour Playback"
+            }
+        ]
     },
     {
         "id":6,

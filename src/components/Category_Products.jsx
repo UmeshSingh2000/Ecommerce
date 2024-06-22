@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React  from 'react'
 import category_card from './category-images.json'
 import Card from './Card'
 import Navbar from './Navbar'
@@ -11,7 +11,7 @@ const Category_Products = () => {
         <div>
             <Navbar />
             <div className="category_Products">
-                <h1>Wireless Earbuds</h1>
+                <h1>{category.title}</h1>
                 <div className='category_Products_cards'>
                     {category.products.map((card) => {
                         return (
