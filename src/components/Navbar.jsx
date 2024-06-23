@@ -23,9 +23,11 @@ const Navbar = () => {
           <Link to="/" style={{
             textDecoration: 'none',
           }}><li>Home</li></Link>
-          <li className='categories'>
+          <a href="#categories" style={{
+            textDecoration: 'none',
+          }}><li className='categories'>
             Categories
-          </li>
+          </li></a>
           <li>
             <div className="search">
               <i className="fa-solid fa-magnifying-glass"></i>

@@ -1,10 +1,16 @@
-import React  from 'react'
+import React from 'react'
 import category_card from './category-images.json'
 import Card from './Card'
 import Navbar from './Navbar'
 import { useParams } from 'react-router-dom';
+import Footer from './Footer';
+import { useEffect } from 'react';
+
 
 const Category_Products = () => {
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
     const { categoryId } = useParams();
     const category = category_card.find(card => card.title === (categoryId));
     return (
@@ -22,6 +28,7 @@ const Category_Products = () => {
                     })}
                 </div>
             </div>
+            <Footer />
         </div>
     )
 }
