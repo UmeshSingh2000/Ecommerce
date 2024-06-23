@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import logo from '../assets/boAt_logo_small_3067da8c-a83b-46dd-b28b-6ef1e16ccd17_small.svg'
 
 
 const Navbar = () => {
@@ -15,11 +16,7 @@ const Navbar = () => {
             textDecoration: 'none',
             color: 'black',
           }}>
-            <h1>Sound <span style={{
-              color: 'red',
-              fontWeight: '700',
-              textDecoration: 'underline'
-            }}>Mart</span></h1>
+            <img src={logo} alt="logo" />
           </Link>
         </div>
         <ul>
