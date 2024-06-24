@@ -216,7 +216,6 @@ html {
             transform: translate(-50%, 20%);
             border-radius: 50px;
             border: 2px solid white;
-
             p {
                 text-align: center;
                 font-weight: 600;
@@ -235,6 +234,7 @@ html {
         margin: 10px;
         position: relative;
         height: 15%;
+        // padding-top: 10px;
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -243,14 +243,14 @@ html {
             color: orange;
         }
         .title{
-            font-size: 1.2rem;
+            font-size: 1.1rem;
         }
 
         .btn {
             // position: absolute;
             background-color: #1A2024;
             width: 120px;
-            
+            font-size: .9rem;
             cursor: pointer;
             text-align: center;
             padding: 10px;

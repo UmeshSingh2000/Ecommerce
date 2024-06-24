@@ -202,11 +202,12 @@ html {
   color: orange;
 }
 .card .content .title {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 .card .content .btn {
   background-color: #1A2024;
   width: 120px;
+  font-size: 0.9rem;
   cursor: pointer;
   text-align: center;
   padding: 10px;
