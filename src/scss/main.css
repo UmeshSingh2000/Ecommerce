@@ -167,6 +167,7 @@ html {
 }
 .card .image {
   position: relative;
+  height: 80%;
 }
 .card .image .card-feature {
   background-color: #FCC50B;
@@ -175,7 +176,7 @@ html {
   position: absolute;
   bottom: 0;
   left: 50%;
-  transform: translate(-50%, 20%);
+  transform: translate(-50%, 50%);
   border-radius: 50px;
   border: 2px solid white;
 }
@@ -187,13 +188,13 @@ html {
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
-  height: 350px;
+  height: 100%;
   border-radius: 10px 10px 0 0px;
 }
 .card .content {
   margin: 10px;
   position: relative;
-  height: 15%;
+  height: 20%;
   display: flex;
   justify-content: space-between;
   align-items: center;
