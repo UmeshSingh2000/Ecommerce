@@ -308,6 +308,22 @@ html {
     }
 }
 
+.random-products {
+    h1 {
+        margin: 1rem 2.5rem;
+        font-size: 2rem;
+        font-weight: 800;
+    }
+    .container {
+        margin-top: 20px;
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+}
+
 .footer {
     margin-top: 50px;
     background-color: #E7F0F5;
@@ -382,7 +398,8 @@ html {
                 .email {
                     width: 250px;
                 }
-                h2{
+
+                h2 {
                     font-size: 1rem;
                 }
             }

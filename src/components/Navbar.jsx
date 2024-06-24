@@ -34,7 +34,6 @@ const Navbar = () => {
               <input type="text" placeholder='Search' />
             </div>
           </li>
-
         </ul>
         <div className="cart">
           <i className="fa-regular fa-user"></i>
@@ -44,5 +43,4 @@ const Navbar = () => {
     </>
   )
 }
-
 export default Navbar

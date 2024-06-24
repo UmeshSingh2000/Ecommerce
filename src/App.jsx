@@ -7,6 +7,7 @@ import Categories from './components/Categories'
 import Toppick from './components/Toppick'
 import Trust from './components/Trust'
 import Footer from './components/Footer'
+import RandomProducts from './components/RandomProducts'
 
 
 
@@ -21,6 +22,7 @@ const App = () => {
       <Categories />
       <Toppick />
       <Trust/>
+      <RandomProducts/>
       <Footer/>
     </div>
   )
