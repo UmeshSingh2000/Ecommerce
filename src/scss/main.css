@@ -193,6 +193,10 @@ html {
 .card .content {
   margin: 10px;
   position: relative;
+  height: 15%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .card .content i {
   color: orange;
@@ -201,7 +205,6 @@ html {
   font-size: 1.2rem;
 }
 .card .content .btn {
-  position: absolute;
   background-color: #1A2024;
   width: 120px;
   cursor: pointer;
@@ -209,8 +212,6 @@ html {
   padding: 10px;
   border-radius: 10px;
   color: white;
-  bottom: 0;
-  right: 1%;
 }
 
 .toppicks h1 {

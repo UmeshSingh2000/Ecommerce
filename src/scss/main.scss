@@ -206,7 +206,6 @@ html {
 
     .image {
         position: relative;
-
         .card-feature {
             background-color: #FCC50B;
             padding: 5px;
@@ -235,6 +234,10 @@ html {
     .content {
         margin: 10px;
         position: relative;
+        height: 15%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
 
         i {
             color: orange;
@@ -244,16 +247,15 @@ html {
         }
 
         .btn {
-            position: absolute;
+            // position: absolute;
             background-color: #1A2024;
             width: 120px;
+            
             cursor: pointer;
             text-align: center;
             padding: 10px;
             border-radius: 10px;
             color: white;
-            bottom: 0;
-            right: 1%;
         }
     }
 }

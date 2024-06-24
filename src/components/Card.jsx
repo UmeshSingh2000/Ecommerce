@@ -11,11 +11,14 @@ const Card = (props) => {
                     <img src={props.src} alt="..."></img>
                 </div>
                 <div className="content">
-                    <h2 className='title'>{props.title}</h2>
-                    <p className='price'>{props.price}</p>
-                    <p>
-                        <i className="fa-solid fa-star"></i>{props.stars}
-                    </p>
+                    <div>
+
+                        <h2 className='title'>{props.title}</h2>
+                        <p className='price'>{props.price}</p>
+                        <p>
+                            <i className="fa-solid fa-star"></i>{props.stars}
+                        </p>
+                    </div>
                     <div className="btn">Add to Cart</div>
                 </div>
             </div>
