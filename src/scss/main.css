@@ -197,6 +197,9 @@ html {
 .card .content i {
   color: orange;
 }
+.card .content .title {
+  font-size: 1.2rem;
+}
 .card .content .btn {
   position: absolute;
   background-color: #1A2024;

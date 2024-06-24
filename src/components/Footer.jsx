@@ -56,8 +56,6 @@ const Footer = () => {
                         }}>
                             <p>Soundbars</p>
                         </Link>
-                    </div>
-                    <div className="box">
                         <Link to={`/category/Trimmers`} style={{
                             textDecoration: 'none',
                             color: 'black',
