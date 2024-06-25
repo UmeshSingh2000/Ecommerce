@@ -44,7 +44,7 @@ const RandomProducts = () => {
       >
         <div className='container'>
           {visibleProducts.map((product, index) => (
-            <Card key={index} title={product.title} src={product.src} stars={product.stars} price={product.price} feature={product.feature} />
+            <Card key={index} title={product.title} src={product.src} stars={product.stars} price={product.price} feature={product.feature} identity = {product.id}/>
           ))}
         </div>
       </InfiniteScroll>

@@ -18,6 +18,7 @@ const App = () => {
   return (
     <div>
       <Navbar />
+      
       <Hero />
       <Categories />
       <Toppick />

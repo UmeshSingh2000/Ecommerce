@@ -1,11 +1,22 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import logo from '../assets/boAt_logo_small_3067da8c-a83b-46dd-b28b-6ef1e16ccd17_small.svg'
+import { useSelector } from 'react-redux'
+import Cart from '../components/Cart'
+
 
 
 const Navbar = () => {
+  const cartCounter = useSelector((state) => state.counter.cartCounter)
+  const cartCounterProd = useSelector((state) => state.counter.cartProducts)
+  
+
+  const openCart = () => {
+    document.querySelector('.cart').classList.toggle('show')
+  }
   return (
     <>
+      <Cart />
       <nav className="navbar" style={{
         position: 'sticky',
         top: 0,
@@ -26,8 +37,8 @@ const Navbar = () => {
           <a href="#categories" style={{
             textDecoration: 'none',
           }}><li className='categories'>
-            Categories
-          </li></a>
+              Categories
+            </li></a>
           <li>
             <div className="search">
               <i className="fa-solid fa-magnifying-glass"></i>
@@ -35,9 +46,9 @@ const Navbar = () => {
             </div>
           </li>
         </ul>
-        <div className="cart">
+        <div className="cartIcon">
           <i className="fa-regular fa-user"></i>
-          <i className="fa-solid fa-cart-shopping" data-count="0"></i>
+          <i className="fa-solid fa-cart-shopping" data-count={cartCounter} onClick={openCart}></i>
         </div>
       </nav>
     </>

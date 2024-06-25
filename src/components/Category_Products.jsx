@@ -22,7 +22,7 @@ const Category_Products = () => {
                     {category.products.map((card) => {
                         return (
                             <div key={card.id}>
-                                <Card src={card.src} title={card.title} price={card.price} stars={card.stars} feature={card.feature} />
+                                <Card src={card.src} title={card.title} price={card.price} stars={card.stars} feature={card.feature} identity = {card.id}/>
                             </div>
                         )
                     })}
