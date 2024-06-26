@@ -30,7 +30,7 @@ const Card = (props) => {
                             price: props.price,
                             src: props.src,
                             qnty: 1,
-                            id: props.identity,
+                            productId: props.productId,
                             star : props.stars
                         }
                     ))}>Add to Cart</div>

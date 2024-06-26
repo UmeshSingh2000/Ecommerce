@@ -5,6 +5,7 @@
         "title": "True Wireless Earbuds",
         "products": [
             {
+                "productId" : 1,
                 "id": 1,
                 "title": "Airdopes 131",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/131_f04f74fd-45d4-4614-85cf-6ccf69c4cf90.jpg?v=1691395049",
@@ -13,6 +14,7 @@
                 "feature": "60 Hours Playback"
             },
             {
+                "productId" : 2,
                 "id": 2,
                 "title": "Airdopes Atom 83",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/boAt-Airdopes-Atom-83.jpg?v=1682576552",
@@ -21,6 +23,7 @@
                 "feature": "50 Hours Playback"
             },
             {
+                "productId" : 3,
                 "id": 3,
                 "title": "Nirvana Ion",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Nirvana_Ion.jpg?v=1697621745",
@@ -29,6 +32,7 @@
                 "feature": "120 Hours Playback"
             },
             {
+                "productId" : 4,
                 "id": 4,
                 "title": "Airdopes 161",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_161.jpg?v=1686297917",
@@ -37,6 +41,7 @@
                 "feature": "40 Hours Playback"
             },
             {
+                "productId" : 5,
                 "id": 5,
                 "title": "Airdopes 441",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_131_e7e95f2c-0bb3-492e-89df-613a2cfb792f.jpg?v=1686297917",
@@ -45,6 +50,7 @@
                 "feature": "60 Hours Playback"
             },
             {
+                "productId" : 6,
                 "id": 6,
                 "title": "Airdopes 163",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Airdopes-163.jpg?v=1682408982",
@@ -53,6 +59,7 @@
                 "feature": "50 Hours Playback"
             },
             {
+                "productId" : 7,
                 "id": 7,
                 "title": "Airdopes 171",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_141.png?v=1703145765",
@@ -61,6 +68,7 @@
                 "feature": "17 Hours Playback"
             },
             {
+                "productId" : 8,
                 "id": 8,
                 "title": "Immortal 111",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/IM_111.jpg?v=1706776330",
@@ -69,6 +77,7 @@
                 "feature": "Gaming Earbuds"
             },
             {
+                "productId" : 9,
                 "id": 9,
                 "title": "Airdopes Ace",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_Alpha.jpg?v=1688452927",
@@ -84,6 +93,7 @@
         "title": "Neckband",
         "products": [
             {
+                "productId" : 10,
                 "id": 1,
                 "title": "Rockerz 195V2 Pro",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_195V2_Pro.jpg?v=16971071919",
@@ -92,6 +102,7 @@
                 "feature": "30 Hours Playback"
             },
             {
+                "productId" : 11,
                 "id": 2,
                 "title": "Rockerz 109",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_109.jpg?v=1697621745",
@@ -100,6 +111,7 @@
                 "feature": "10 Hours Playback"
             },
             {
+                "productId" : 12,
                 "id": 3,
                 "title": "Rockerz 255 Pro+",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/r255pro_55d805bc-f2e1-4861-9533-8eee57081305.jpg?v=1682573437",
@@ -108,6 +120,7 @@
                 "feature": "50 Hours Playback"
             },
             {
+                "productId" : 13,
                 "id": 4,
                 "title": "Rockerz 103 V2 Pro",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/R_103_V2_pro_9dd7801f-03cf-4ac7-8336-03c90b9cd839.jpg?v=1698302597",
@@ -116,6 +129,7 @@
                 "feature": "40 Hours Playback"
             },
             {
+                "productId" : 14,
                 "id": 5,
                 "title": "Rockerz 111",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_111.jpg?v=1698909797",
@@ -124,6 +138,7 @@
                 "feature": "60 Hours Playback"
             },
             {
+                "productId" : 15,
                 "id": 6,
                 "title": "Rockerz 258 Pro+",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_258_Pro_d18d492a-866d-462b-8728-bee75002add0.jpg?v=1698909797",
@@ -132,6 +147,7 @@
                 "feature": "50 Hours Playback"
             },
             {
+                "productId" : 16,
                 "id": 7,
                 "title": "Rockerz 333 ANC",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_333_ANC.jpg?v=1698402384",
@@ -140,6 +156,7 @@
                 "feature": "17 Hours Playback"
             },
             {
+                "productId" : 17,
                 "id": 8,
                 "title": "Rockerz 330 Pro",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/boAt-Rockerz-330-Pro.jpg?v=1682579854",
@@ -148,6 +165,7 @@
                 "feature": "Gaming Earphone"
             },
             {
+                "productId" : 18,
                 "id": 9,
                 "title": "Rockerz 245 V2 Pro",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_245V2_Pro_1.jpg?v=1692782512",
@@ -163,6 +181,7 @@
         "title": "Smart Watches",
         "products": [
             {
+                "productId" : 19,
                 "id": 1,
                 "title": "Ultima Chronos",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Ultima_Chronos.webp?v=1701692614",
@@ -171,6 +190,7 @@
                 "feature": "AMOLED Display"
             },
             {
+                "productId" : 20,
                 "id": 2,
                 "title": "Wave Flex Connect",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Waveflex_connect.webp?v=1709108774",
@@ -179,6 +199,7 @@
                 "feature": "BT Calling"
             },
             {
+                "productId" : 21,
                 "id": 3,
                 "title": "Storm Call 2",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Storm_Call_2.webp?v=1698984630",
@@ -187,6 +208,7 @@
                 "feature": "BT Calling"
             },
             {
+                "productId" : 22,
                 "id": 4,
                 "title": "Lunar Connect Ace",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Lunar_Connect_Ace.webp?v=1702287204",
@@ -195,6 +217,7 @@
                 "feature": "BT Calling"
             },
             {
+                "productId" : 23,
                 "id": 5,
                 "title": "Lunar Vista",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Lunar_Vista.webp?v=1702287205",
@@ -203,6 +226,7 @@
                 "feature": "Round Display"
             },
             {
+                "productId" : 24,
                 "id": 6,
                 "title": "Wave Call 2",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Wave_Call_2.webp?v=1698747884",
@@ -211,6 +235,7 @@
                 "feature": "BT Calling"
             },
             {
+                "productId" : 25,
                 "id": 7,
                 "title": "Ultima Connect Max",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/LIfestyle-renders.jpg?v=1685614895",
@@ -219,6 +244,7 @@
                 "feature": "BT Calling"
             },
             {
+                "productId" : 26,
                 "id": 8,
                 "title": "Lunar Orb",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Lunar_Orb.webp?v=1701246813",
@@ -227,6 +253,7 @@
                 "feature": "AMOLED Display"
             },
             {
+                "productId" : 27,
                 "id": 9,
                 "title": "Wave Glory",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Wave_Glory_8f5ee246-4a00-4184-9655-fe0e9529b2ed.webp?v=1701692614",
@@ -242,6 +269,7 @@
         "title": "Wireless Headphones",
         "products": [
             {
+                "productId" : 28,
                 "id": 1,
                 "title": "Nirvanaa 751 ANC",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Nirvana_751_ANC.jpg?v=1698909797",
@@ -250,6 +278,7 @@
                 "feature": "65 Hour Playback"
             },
             {
+                "productId" : 29,
                 "id": 2,
                 "title": "Immortal 700",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Immortal_700_35baa2dd-cf19-4eab-8df3-c79ae962fb85.jpg?v=1699501201",
@@ -258,6 +287,7 @@
                 "feature": "ENxTM Tech"
             },
             {
+                "productId" : 30,
                 "id": 3,
                 "title": "Nirvana Eutopia",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Nirvana_Eutopia.jpg?v=1711716650",
@@ -266,6 +296,7 @@
                 "feature": "20 Hour Playback"
             },
             {
+                "productId" : 31,
                 "id": 4,
                 "title": "Rockerz 551ANC",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_551_ANC_75520e83-ecd9-48d4-8d58-cb6ca3c78374.jpg?v=1698912191",
@@ -274,6 +305,7 @@
                 "feature": "100 Hour Playback"
             },
             {
+                "productId" : 32,
                 "id": 5,
                 "title": "Immortal 1000D",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Immortal_1000D_a4b7d95f-5ce0-459a-a148-9bd5d175445c.jpg?v=1699419321",
@@ -282,6 +314,7 @@
                 "feature": "7.1 Channel Display"
             },
             {
+                "productId" : 33,
                 "id": 6,
                 "title": "Rockerz 518",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_518.jpg?v=1698909446",
@@ -290,6 +323,7 @@
                 "feature": "20 Hour PLayback"
             },
             {
+                "productId" : 34,
                 "id": 7,
                 "title": "Nirvana 717 ANC",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/nirvana-717-1_300x.png?v=1613457273",
@@ -298,6 +332,7 @@
                 "feature": "15 Hour Playback"
             },
             {
+                "productId" : 35,
                 "id": 8,
                 "title": "Rockerz 400",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/boAt-Rockerz-400_22a1ce75-9141-4a86-8765-ac1468496671.jpg?v=1682579854",
@@ -306,6 +341,7 @@
                 "feature": "8 Hour Playback"
             },
             {
+                "productId" : 36,
                 "id": 9,
                 "title": "Rockerz 600",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/fd0e55b0-ca9e-4aa8-b94f-5cca99189951_300x.png?v=1625045647",
@@ -321,6 +357,7 @@
         "title": "Wireless Speakers",
         "products": [
             {
+                "productId" : 37,
                 "id": 1,
                 "title": "Stone 190 Pro",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/S190PRO_FI_Blue_04.png?v=1718780392",
@@ -329,6 +366,7 @@
                 "feature": "12 Hours Playback"
             },
             {
+                "productId" : 38,
                 "id": 2,
                 "title": "Stone 350",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_350.jpg?v=1701847157",
@@ -337,6 +375,7 @@
                 "feature": "12 Hours Playback"
             },
             {
+                "productId" : 39,
                 "id": 3,
                 "title": "Stone 1450",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_1450.jpg?v=1702014281",
@@ -345,6 +384,7 @@
                 "feature": "40W Rms Sound"
             },
             {
+                "productId" : 40,
                 "id": 4,
                 "title": "Party Pal 185",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/PP_185.jpg?v=1695976203",
@@ -353,6 +393,7 @@
                 "feature": "50W RMS Sound"
             },
             {
+                "productId" : 41,
                 "id": 5,
                 "title": "Stone 1800",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_1800.jpg?v=1695273373",
@@ -361,6 +402,7 @@
                 "feature": "90W Signature Sound"
             },
             {
+                "productId" : 42,
                 "id": 6,
                 "title": "Stone 650",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_650_e2b01de6-260c-4807-b1a4-1375392188b1.jpg?v=1702027041",
@@ -369,6 +411,7 @@
                 "feature": "07 Hour PLayback"
             },
             {
+                "productId" : 43,
                 "id": 7,
                 "title": "Blitz 1500",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/files/Artboard3_44_300x.png?v=1705550564",
@@ -377,6 +420,7 @@
                 "feature": "15 Hour Playback"
             },
             {
+                "productId" : 44,
                 "id": 8,
                 "title": "Stone Magestic",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_Majestic.jpg?v=1714033662",
@@ -385,6 +429,7 @@
                 "feature": "6 Hour Playback"
             },
             {
+                "productId" : 45,
                 "id": 9,
                 "title": "Party Pal 400",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Partypal_400.psb.jpg?v=1699524655",
@@ -400,6 +445,7 @@
         "title": "Wired Headphones",
         "products": [
             {
+                "productId" : 46,
                 "id": 1,
                 "title": "Immortal 700",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Immortal_700_35baa2dd-cf19-4eab-8df3-c79ae962fb85.jpg?v=1699501201",
@@ -408,6 +454,7 @@
                 "feature": "ENxTM Tech"
             },
             {
+                "productId" : 47,
                 "id": 2,
                 "title": "Immortal 300",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Immortal_300.webp?v=1700806009",
@@ -416,6 +463,7 @@
                 "feature": "7.1 Channel Sound"
             },
             {
+                "productId" : 48,
                 "id": 3,
                 "title": "Immortal 400",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/IM_400.gif?v=1691387449",
@@ -424,6 +472,7 @@
                 "feature": "7.1 Channel Sound"
             },
             {
+                "productId" : 49,
                 "id": 4,
                 "title": "Basshead 950v2",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/main3_6370be21-3c2f-48a8-bb18-edc49a667081_300x.png?v=1643619646",
@@ -432,6 +481,7 @@
                 "feature": "3.5mm Angled Jack"
             },
             {
+                "productId" : 50,
                 "id": 5,
                 "title": "Stone 1800",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/immortal_1300.gif?v=1691387451",
@@ -440,6 +490,7 @@
                 "feature": "Dual Microphone"
             },
             {
+                "productId" : 51,
                 "id": 6,
                 "title": "Basshead 400",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/8ec58553-3255-48ec-929e-4838215b640c_300x.png?v=1625046271",
@@ -455,6 +506,7 @@
         "title": "Wired Earphones",
         "products": [
             {
+                "productId" : 52,
                 "id": 1,
                 "title": "Bassheads 220",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/1neon_3105765c-e660-47c7-9deb-3482720df176_300x.png?v=1592544752",
@@ -463,6 +515,7 @@
                 "feature": "Noise Isolation"
             },
             {
+                "productId" : 53,
                 "id": 2,
                 "title": "Basshead 104",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Bassheads_104.jpg?v=1699501201",
@@ -471,6 +524,7 @@
                 "feature": "Noise Isolation"
             },
             {
+                "productId" : 54,
                 "id": 3,
                 "title": "Bassheads 102",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/boat-bassheads-102-red_300x.png?v=1633152280",
@@ -479,6 +533,7 @@
                 "feature": "Noise Isolation"
             },
             {
+                "productId" : 55,
                 "id": 4,
                 "title": "Basshead 100",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/c3d0fbbd-9479-4351-bf04-91136da2ae91_300x.png?v=1656750183",
@@ -487,6 +542,7 @@
                 "feature": "Inline Microphone"
             },
             {
+                "productId" : 56,
                 "id": 5,
                 "title": "Basshead 152",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/c8ed7c0e-783f-49e6-a3ae-816ae0a8bc85_300x.png?v=1657011606",
@@ -495,6 +551,7 @@
                 "feature": "3.5mm Angled Jack"
             },
             {
+                "productId" : 57,
                 "id": 6,
                 "title": "Basshead 172 Sunburn",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/main2_d46d18bd-17a2-417a-af86-9f851bdf7068_300x.png?v=1645083010",
@@ -503,6 +560,7 @@
                 "feature": "Inbuild Mic"
             },
             {
+                "productId" : 58,
                 "id": 7,
                 "title": "Nirvna DUO",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/nirvana-duo_300x.png?v=1613742913",
@@ -511,6 +569,7 @@
                 "feature": "Inline Microphone"
             },
             {
+                "productId" : 59,
                 "id": 8,
                 "title": "Nirvana CE-1",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/nirvana-ce-1_300x.png?v=1613742886",
@@ -526,6 +585,7 @@
         "title": "Soundbars",
         "products": [
             {
+                "productId" : 60,
                 "id": 1,
                 "title": "Aavante Bar 590",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/av590.jpg?v=1682573437",
@@ -534,6 +594,7 @@
                 "feature": "25W RMS Sound"
             },
             {
+                "productId" : 61,
                 "id": 2,
                 "title": "Aavante Bar Stark",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Mall_Mode__1356_x_1160px.png?v=1718702293",
@@ -542,6 +603,7 @@
                 "feature": "25W RMS Sound"
             },
             {
+                "productId" : 62,
                 "id": 3,
                 "title": "Aavante Bar Theme",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ab-theme.jpg?v=1684224858",
@@ -550,6 +612,7 @@
                 "feature": "Wireless Subwoofer"
             },
             {
+                "productId" : 63,
                 "id": 4,
                 "title": "Aavante Bar 2050",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Aavante_Bar_2050.jpg?v=1702618467",
@@ -558,6 +621,7 @@
                 "feature": "25W RMS Sound"
             },
             {
+                "productId" : 64,
                 "id": 5,
                 "title": "Aavante Bar Thump",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Aavante_Bar_Thump.jpg?v=1682408982",
@@ -573,6 +637,7 @@
         "title": "Trimmers",
         "products": [
             {
+                "productId" : 65,
                 "id": 1,
                 "title": "Misfit Groom 100",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Groom_100_3_in_1.jpg?v=1698305173",
@@ -581,6 +646,7 @@
                 "feature": "Grooming Kit"
             },
             {
+                "productId" : 66,
                 "id": 2,
                 "title": "Misfit Groom 300",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Groom_300_1.jpg?v=1698391499",
@@ -589,6 +655,7 @@
                 "feature": "120 Minute Runtime"
             },
             {
+                "productId" : 67,
                 "id": 3,
                 "title": "Misfit Groom 100 5 in 1",
                 "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Groom_100_5_in_1.jpg?v=1698305172",
@@ -597,6 +664,7 @@
                 "feature": "Grooming Kit"
             },
             {
+                "productId" : 68,
                 "id": 4,
                 "title": "Misfit T200",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/Untitled-3_300x.png?v=1661405585",
@@ -605,6 +673,7 @@
                 "feature": "Grooming Kit"
             },
             {
+                "productId" : 69,
                 "id": 5,
                 "title": "Misfit T50 Lite",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/main_efb2d946-02c5-412b-bb86-ce83807d2318_300x.png?v=1630646783",
@@ -620,6 +689,7 @@
         "title": "Chargers",
         "products": [
             {
+                "productId" : 70,
                 "id": 1,
                 "title": "WCD QC3.0",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/wcd-with-type-c-cable_300x.png?v=1613736705",
@@ -628,6 +698,7 @@
                 "feature": "18W Fast Charger"
             },
             {
+                "productId" : 71,
                 "id": 2,
                 "title": "DV 22.5W",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/files/22.5W_1-PhotoRoom.png-PhotoRoom_300x.png?v=1686031640",
@@ -636,6 +707,7 @@
                 "feature": "Qualcomm Certified"
             },
             {
+                "productId" : 72,
                 "id": 3,
                 "title": "WCD QCPD",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/3_49c2d9f4-8517-4c69-85e2-a2950edb1575_300x.png?v=1669385080",
@@ -644,6 +716,7 @@
                 "feature": "65W Charger"
             },
             {
+                "productId" : 73,
                 "id": 4,
                 "title": "18W Dual QC-PD",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/18w-main_300x.png?v=1643023453",
@@ -652,6 +725,7 @@
                 "feature": "18W Fast Charger"
             },
             {
+                "productId" : 74,
                 "id": 5,
                 "title": "WCD 2.0",
                 "src": "https://www.boat-lifestyle.com/cdn/shop/products/Banner5-product2_300x.png?v=1622705889",
