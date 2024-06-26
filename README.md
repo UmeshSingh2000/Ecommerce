@@ -8,7 +8,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="sdd.jpk" alt="project-screenshot" width="400" height="400/">
+![screely-1719401496430](https://github.com/UmeshSingh2000/Ecommerce/assets/164480488/03cf3f5a-e0ed-48d5-835f-f528f82cc1af)
+![screely-1719401512258](https://github.com/UmeshSingh2000/Ecommerce/assets/164480488/994a283e-c0aa-47dc-87ba-36db18faa52b)
+
 
   
   
