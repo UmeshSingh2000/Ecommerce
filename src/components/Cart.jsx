@@ -7,9 +7,6 @@ const Cart = () => {
     const cartData = useSelector((state) => state.counter.cartProducts)
     const total = useSelector((state) => state.counter.TotalAmount)
     const dispatch = useDispatch();
-    useEffect(() => {
-        console.log(total);
-    })
     return (
         <>
             <div className='cart'>
@@ -26,7 +23,7 @@ const Cart = () => {
                             fontSize: '100px',
                             color: 'green'
                         }}></i>
-                        <h2>Your cart is feeling lonely</h2>
+                        <h2 style={{fontSize:'.9rem'}}>Your cart is feeling lonely</h2>
                     </div>
                 ) : (
                     <div className="cart_container">

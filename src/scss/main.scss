@@ -179,6 +179,9 @@ html {
                 input {
                     padding: 0.5rem 1rem;
                     width: 500px;
+                    border: 1px solid black;
+                    border-radius: 10px;
+                    font-weight: 500;
                 }
 
                 i {
@@ -314,7 +317,7 @@ html {
     // height: auto;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
-
+    // padding: 10px;
     .image {
         position: relative;
         height: 80%;
@@ -352,13 +355,19 @@ html {
         display: flex;
         justify-content: space-between;
         align-items: center;
-
+        
+        
         i {
             color: orange;
         }
 
         .title {
             font-size: 1rem;
+            font-weight: 600;
+        }
+        .price{
+            font-size: 1rem;
+            font-weight: 400;
         }
 
         .btn {
@@ -475,7 +484,21 @@ html {
         }
     }
 }
-
+//searchPage
+.searchPage{
+    margin-top: 10px;
+    h1{
+       span{
+        color: red;
+        text-decoration: underline;
+       }
+    }
+    ul{
+        li{
+            font-weight: 500;
+        }
+    }
+}
 
 
 
