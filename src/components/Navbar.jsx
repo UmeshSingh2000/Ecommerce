@@ -10,17 +10,16 @@ const Navbar = () => {
   const navigate = useNavigate();
   const cartCounter = useSelector((state) => state.counter.cartCounter)
   // const cartCounterProd = useSelector((state) => state.counter.cartProducts)
-  const [searchQuerry,setSearchQuerry] = useState('');
-  const handleSearch=()=>{
-    if(!searchQuerry.trim()) return 
+  const [searchQuerry, setSearchQuerry] = useState('');
+  const handleSearch = () => {
+    if (!searchQuerry.trim()) return
     navigate(`/search/${encodeURIComponent(searchQuerry.trim())}`);
   }
-  
 
 
 
-  const handleHome =()=>{
-    window.scrollTo(0,0);
+  const handleHome = () => {
+    window.scrollTo(0, 0);
   }
   const openCart = () => {
     document.querySelector('.cart').classList.toggle('show')
@@ -53,9 +52,9 @@ const Navbar = () => {
           <li>
             <div className="search">
               <i className="fa-solid fa-magnifying-glass" onClick={handleSearch}></i>
-              <input type="text" placeholder='Search' onChange={(e)=>setSearchQuerry(e.target.value)} onKeyDown={(e)=>{
-                if(e.key === 'Enter') handleSearch()
-              }}/>
+              <input type="text" placeholder='Search' onChange={(e) => setSearchQuerry(e.target.value)} onKeyDown={(e) => {
+                if (e.key === 'Enter') handleSearch()
+              }} />
             </div>
           </li>
         </ul>

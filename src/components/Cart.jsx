@@ -4,9 +4,11 @@ import { incrementQnty, removeProduct, decrementQnty } from '../features/cart/co
 
 const Cart = () => {
 
+    
     const cartData = useSelector((state) => state.counter.cartProducts)
     const total = useSelector((state) => state.counter.TotalAmount)
     const dispatch = useDispatch();
+    
     return (
         <>
             <div className='cart'>

@@ -11,12 +11,14 @@ import SearchPage from './components/SearchPage.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
     <Provider store={store}>
-        <BrowserRouter>
-            <Routes>
-                <Route path='/' element={<App />} />
-                <Route path='/category/:categoryId' element={<Category_Products />} />
-                <Route path='/search/:query' element={<SearchPage/>} />
-            </Routes>
-        </BrowserRouter>
+        
+            <BrowserRouter>
+                <Routes>
+                    <Route path='/' element={<App />} />
+                    <Route path='/category/:categoryId' element={<Category_Products />} />
+                    <Route path='/search/:query' element={<SearchPage />} />
+                </Routes>
+            </BrowserRouter>
+        
     </Provider>
 )
