@@ -6,9 +6,9 @@ const getProduct = async (req, res) => {
         const data = await Main.find();
         res.json({ data });
     }
-    catch
+    catch(err)
     {
-        res.json({ message: "error" });
+        res.json({ message: err.message });
     }
 }
 
