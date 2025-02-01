@@ -14,7 +14,6 @@ const RandomProducts = () => {
 
   useEffect(() => {
     const fetchProducts = async () => {
-      console.log(BACKEND_URL)
       try {
         const response = await axios.get(`${BACKEND_URL}api/products`);
         setCategory_card(Array.isArray(response.data.data) ? response.data.data : []);

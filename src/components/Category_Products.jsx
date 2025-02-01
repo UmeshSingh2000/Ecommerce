@@ -12,7 +12,6 @@ const Category_Products = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    console.log(BACKEND_URL)
     const fetchProd = async () => {
       try {
         const response = await axios.get(`${BACKEND_URL}api/products`);
