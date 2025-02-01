@@ -12,7 +12,7 @@ const paymentRoute = require('./Routes/paymentRouter')
 
 app.use(cors(
     {
-        origin: 'http://localhost:5173'
+        origin: 'https://ecommerce-frontend-cqbi.onrender.com/',
     }
 ));
 app.use(express.json());
