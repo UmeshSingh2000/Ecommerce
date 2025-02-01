@@ -3,7 +3,7 @@ import Card from './Card';
 import InfiniteScroll from 'react-infinite-scroll-component';
 import axios from 'axios';
 import Loader from './Loader';
-
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL
 
 const RandomProducts = () => {
   const [products, setProducts] = useState([]);
@@ -14,8 +14,9 @@ const RandomProducts = () => {
 
   useEffect(() => {
     const fetchProducts = async () => {
+      console.log(BACKEND_URL)
       try {
-        const response = await axios.get('http://localhost:3000/api/products');
+        const response = await axios.get(`${BACKEND_URL}api/products`);
         setCategory_card(Array.isArray(response.data.data) ? response.data.data : []);
         
         console.log();

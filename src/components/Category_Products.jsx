@@ -5,16 +5,17 @@ import { useParams } from 'react-router-dom';
 import Footer from './Footer';
 import axios from 'axios';
 import Loader from './Loader';
-
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL
 const Category_Products = () => {
   const [category_card, setCategory_card] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState(null); // State to store selected category
 
   useEffect(() => {
     window.scrollTo(0, 0);
+    console.log(BACKEND_URL)
     const fetchProd = async () => {
       try {
-        const response = await axios.get('http://localhost:3000/api/products');
+        const response = await axios.get(`${BACKEND_URL}api/products`);
         setCategory_card(response.data.data); // Set category list
       } catch (err) {
         console.log(err);

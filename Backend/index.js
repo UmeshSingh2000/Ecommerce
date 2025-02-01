@@ -10,7 +10,11 @@ dbConnect();
 const productRoute = require('./Routes/productRoutes')
 const paymentRoute = require('./Routes/paymentRouter')
 
-app.use(cors());
+app.use(cors(
+    {
+        origin: 'http://localhost:5173'
+    }
+));
 app.use(express.json());
 
 

@@ -2,7 +2,7 @@ import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { incrementQnty, removeProduct, decrementQnty } from '../features/cart/counterSlice';
 import {loadStripe} from '@stripe/stripe-js';
-
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL
 const Cart = () => {
     const cartData = useSelector((state) => state.counter.cartProducts);
     const total = useSelector((state) => state.counter.TotalAmount);
@@ -17,7 +17,7 @@ const Cart = () => {
         const headers={
             "Content-Type":"application/json"
         }
-        const response = await fetch('http://localhost:3000/api/payment/create-checkout-session', {
+        const response = await fetch(`${BACKEND_URL}api/payment/create-checkout-session`, {
             method: 'POST',
             headers: headers,
             body: JSON.stringify(body)

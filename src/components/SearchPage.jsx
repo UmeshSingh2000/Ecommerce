@@ -5,6 +5,7 @@ import Navbar from './Navbar'
 import Card from './Card'
 import Footer from './Footer'
 import Loader from './Loader'
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL
 
 const SearchPage = () => {
     const { query } = useParams()
@@ -16,7 +17,7 @@ const SearchPage = () => {
         const fetchProd = async () => {
             setLoading(true)
             try {
-                const response = await axios('http://localhost:3000/api/products')
+                const response = await axios(`${BACKEND_URL}api/products`)
                 const allProduct = response.data.data.flatMap((cat) => cat.products)
                 // console.log(response.data.data);
                 const findProdByName = allProduct.filter((prod) => prod.title.toLowerCase().includes(query.toLocaleLowerCase()))
